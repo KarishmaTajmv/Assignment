@@ -1,5 +1,5 @@
 
-# Thread-Safe In-Memory Cache (SDE-1 Assignment – SatSure)
+# Thread-Safe In-Memory Cache 
 
 Hey there 
 This is my attempt at building a lightweight, in-memory, thread-safe cache system in Python with LRU eviction and TTL support. Not gonna lie, it was a fun one.
