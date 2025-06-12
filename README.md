@@ -56,5 +56,4 @@ Just used `threading.RLock()` around every cache operation. Maybe there's a more
 
 ####
 
-I’ve kept the implementation basic, added comments here and there (some informal too lol), but it should work well. Hit me up if something breaks or feels off 
 
